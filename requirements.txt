@@ -1,0 +1,15 @@
+streamlit==1.39.0
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.10.1
+matplotlib==3.9.2
+seaborn==0.13.2
+plotly==5.24.1
+statsmodels==0.14.3
+tensorflow==2.16.2
+darts==0.30.0
+torch==2.3.1
+lightning==2.4.0
+pmdarima==2.0.4
+scikit-learn==1.5.1
+termcolor==2.5.0
