@@ -515,7 +515,7 @@ if uploaded_file is not None:
                             
 
 else:
-    st.image("./PredictSage_logo.png", use_container_width=True)
+    st.image("assets/PredictSage_logo.png", use_container_width=True)
     st.subheader("User Guide")
     st.header("Data Visualization")
     st.write("""
@@ -568,4 +568,5 @@ else:
     
     2. **Forecast Plot**:
     - The app plots the forecasted values along with the original time series data for visual comparison.
+
     """)
