@@ -14,4 +14,3 @@ pmdarima==2.0.4
 scikit-learn==1.5.1
 termcolor==2.5.0
 sqlalchemy
-connectors
